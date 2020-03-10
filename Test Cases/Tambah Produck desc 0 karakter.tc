@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test case ideal untuk menyimpan produk</description>
+   <name>Tambah Produck desc 0 karakter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d182f3d-d503-48d7-968d-e2b22cd8284c</testCaseGuid>
+</TestCaseEntity>

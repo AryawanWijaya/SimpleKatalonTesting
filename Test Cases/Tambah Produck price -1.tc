@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test case ideal untuk menyimpan produk</description>
+   <name>Tambah Produck price -1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0c685955-3926-4070-8e24-2fafd44848d7</testCaseGuid>
+</TestCaseEntity>
