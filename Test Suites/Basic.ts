@@ -14,6 +14,6 @@
       <guid>a94e8ae3-1cfb-4b72-a2df-c160a4626baa</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Minggu7_waiting</testCaseId>
+      <testCaseId>Test Cases/Minggu7_waiting for element clickable</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
