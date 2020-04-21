@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menguji Login dengan dian dan kopi</description>
+   <name>Minggu9_Test statement if login toko buah</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f64d3180-88e5-4f39-9fd5-e8fb0d306816</testCaseGuid>
+</TestCaseEntity>
