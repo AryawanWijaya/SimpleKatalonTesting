@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test case ideal untuk menyimpan produk</description>
+   <name>Minggu10_Tambah Produck</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>53d74a76-5cf3-43a1-81c3-3f229be5ab1a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c894dc1e-5cdc-458d-997d-06ef4668de60</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5bda8ef8-6da5-40ff-a1a9-810e11a7afc3</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3fca3807-bf14-4f4c-9012-3621299658c9</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6b709457-c2c5-4fb0-9d19-8be07e50c928</id>
+      <masked>false</masked>
+      <name>Price</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d3ea3429-5f9e-4fa1-8032-76e9792bd180</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>eff2654e-5a27-45f4-9c9d-e4d81d4d923e</id>
+      <masked>false</masked>
+      <name>PhotoPath</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0fb5e82d-490b-4fa4-97a1-c0666aa334f9</id>
+      <masked>false</masked>
+      <name>ExpiredDate</name>
+   </variable>
+</TestCaseEntity>

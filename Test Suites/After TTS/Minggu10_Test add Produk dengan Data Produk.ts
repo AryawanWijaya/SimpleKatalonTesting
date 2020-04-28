@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Minggu10_Test add Produk dengan Data Produk</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>49565eed-b23b-4ef6-92da-b2a533e190e7</testSuiteGuid>
+   <testCaseLink>
+      <guid>913818d4-bb62-489b-b41e-8f1be1c71186</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/After TTS/Minggu10_Tambah Produck</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>d155f6ec-a17c-4a73-ad72-eb60c477c0b6</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data Produk</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>d155f6ec-a17c-4a73-ad72-eb60c477c0b6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>c894dc1e-5cdc-458d-997d-06ef4668de60</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d155f6ec-a17c-4a73-ad72-eb60c477c0b6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>5bda8ef8-6da5-40ff-a1a9-810e11a7afc3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d155f6ec-a17c-4a73-ad72-eb60c477c0b6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Name</value>
+         <variableId>3fca3807-bf14-4f4c-9012-3621299658c9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d155f6ec-a17c-4a73-ad72-eb60c477c0b6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Price</value>
+         <variableId>6b709457-c2c5-4fb0-9d19-8be07e50c928</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d155f6ec-a17c-4a73-ad72-eb60c477c0b6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Description</value>
+         <variableId>d3ea3429-5f9e-4fa1-8032-76e9792bd180</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d155f6ec-a17c-4a73-ad72-eb60c477c0b6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PhotoPath</value>
+         <variableId>eff2654e-5a27-45f4-9c9d-e4d81d4d923e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d155f6ec-a17c-4a73-ad72-eb60c477c0b6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ExpiredDate</value>
+         <variableId>0fb5e82d-490b-4fa4-97a1-c0666aa334f9</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

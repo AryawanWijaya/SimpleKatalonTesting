@@ -20,9 +20,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost/tokobuah/index.php/admin/login')
 
-WebUI.setText(findTestObject('Object Repository/Page_Login Admin/input_Email_email'), 'dians')
+WebUI.setText(findTestObject('Object Repository/Page_Login Admin/input_Email_email'), Username)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login Admin/input_Password_password'), 'MMS/zmTQxAM=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login Admin/input_Password_password'), Password)
 
 WebUI.click(findTestObject('Object Repository/Page_Login Admin/input_Lupa Password_btn btn-success w-100'))
 

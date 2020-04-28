@@ -20,15 +20,29 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost/tokobuah/index.php/admin/login')
 
-WebUI.setText(findTestObject('Object Repository/Page_Login Admin/input_Email_email'), 'dians')
+WebUI.setText(findTestObject('Page_Login Admin/input_Email_email'), Username)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login Admin/input_Password_password'), 'MMS/zmTQxAM=')
+WebUI.setEncryptedText(findTestObject('Page_Login Admin/input_Password_password'), Password)
 
-WebUI.click(findTestObject('Object Repository/Page_Login Admin/input_Lupa Password_btn btn-success w-100'))
+WebUI.click(findTestObject('Page_Login Admin/input_Lupa Password_btn btn-success w-100'))
 
-halaman_tujuan = WebUI.getUrl()
+WebUI.click(findTestObject('Object Repository/Page_Tokobuah Admin -/a_Products'))
 
-WebUI.verifyMatch(halaman_tujuan, 'http://localhost/tokobuah/index.php/admin', false)
+WebUI.click(findTestObject('Object Repository/Page_Tokobuah Admin -/a_New Product'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Tokobuah Admin - Products/input_Name_name'), Name)
+
+WebUI.setText(findTestObject('Object Repository/Page_Tokobuah Admin - Products/input_Price_price'), Price)
+
+WebUI.setText(findTestObject('Object Repository/Page_Tokobuah Admin - Products/textarea_Description_description'), Description)
+
+WebUI.uploadFile(findTestObject('Page_Tokobuah Admin - Products/input_Photo_image'), PhotoPath)
+
+WebUI.setText(findTestObject('Page_Tokobuah Admin - Products/input_Expired Date_expiredDate'), ExpiredDate)
+
+WebUI.click(findTestObject('Page_Tokobuah Admin - Products/input_Description_btn'))
+
+WebUI.verifyElementText(findTestObject('Page_Tokobuah Admin - Products/div_Berhasil disimpan'), 'Berhasil disimpan')
 
 WebUI.closeBrowser()
 

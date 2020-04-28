@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menguji Login dengan dian dan kopi</description>
+   <name>Minggu10_Test Login Dian dan Kopi_dg variable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>353bc862-acc0-4f30-a7aa-bd6ccc9eb8da</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>38837672-687d-400e-a556-f2689f8710b7</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b5eaea82-044d-4cdb-b8d1-7ebf4d87297f</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
