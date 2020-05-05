@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Minggu11_TestAddMataKuliahMobile</name>
+   <name>Minggu11_TestAddMataKuliahFullDataMobile</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>1e5a8558-6e9f-414b-92d1-079543b767a4</testCaseGuid>
+   <testCaseGuid>860f120b-02b3-417a-aa8f-b72e3e7e17e4</testCaseGuid>
 </TestCaseEntity>
